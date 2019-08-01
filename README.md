@@ -5,4 +5,4 @@ This is my final year dissertation project submitted to The University of Northa
 
 # System Architecture 
 
-![System Architecture](https://imgur.com/a/lRRw1JW)
+![System Architecture](https://i.imgur.com/uAE4UPz.png)
